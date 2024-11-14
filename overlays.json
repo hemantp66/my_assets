@@ -1,0 +1,59 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 1,
+            "type": 0,
+            "name": {
+                "en": "AN"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Analog"
+            },
+            "OrderInTab": 1,
+            "count": 8,
+            "icon": "overlays/overlay_analog/overlay_analog",
+            "overlay": "overlays/overlay_analog/overlay_analog",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": {
+                "en": "GR"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Gradient"
+            },
+            "OrderInTab": 2,
+            "count": 17,
+            "icon": "overlays/overlay_gradient/overlay_gradient",
+            "overlay": "overlays/overlay_gradient/overlay_gradient",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "isPro": true
+        },
+        {
+            "id": 1,
+            "type": 0,
+            "name": {
+                "en": "HO"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Holi"
+            },
+            "OrderInTab": 3,
+            "count": 8,
+            "icon": "overlays/overlay_holi/overlay_holi",
+            "overlay": "overlays/overlay_holi/overlay_holi",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "isPro": true
+        }
+    ]
+}

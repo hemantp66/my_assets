@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "items":[
+        {
+            "id": 1,
+            "filterType": 4,
+            "name":{
+                "en": "TB"
+            },
+            "color":"0xFF263238",
+            "category":{
+                "en": "Toasty Bliss"
+            },
+            "OrderInTab":1,
+            "count": 5,
+            "lookupTableName": "filters/filter_ToastyBliss/filter_ToastyBliss",
+            "thumb": "filters/filter_ToastyBliss/thumb",
+            "isPro": false
+        },
+        {
+            "id": 2,
+            "filterType": 4,
+            "name":{
+                "en": "CH"
+            },
+            "color":"0xFF212121",
+            "category":{
+                "en": "Clean Hue"
+            },
+            "OrderInTab":2,
+            "count": 5,
+            "lookupTableName": "filters/filter_clean_hue/filter_clean_hue",
+            "thumb": "filters/filter_clean_hue/thumb",
+            "isPro": false
+        }
+    ]
+}

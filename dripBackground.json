@@ -1,0 +1,155 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 0,
+            "OrderInTab": 0,
+            "name": {
+                "en": "SP"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Splash"
+            },
+            "count": 10,
+            "background": "drip/bg/drip_bg_splash/drip_bg_splash",
+            "icon": "drip/bg/drip_bg_splash/icon_drip_bg_splash",
+            "isPro": true
+        },
+        {
+            "id": 1,
+            "OrderInTab": 0,
+            "name": {
+                "en": "NA"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Natural"
+            },
+            "count": 5,
+            "background": "drip/bg/drip_bg_natural/drip_bg_natural",
+            "icon": "drip/bg/drip_bg_natural/icon_drip_bg_natural",
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "OrderInTab": 0,
+            "name": {
+                "en": "CY"
+            },
+            "color": "0xFF4A148C",
+            "category": {
+                "en": "Cyber"
+            },
+            "count": 4,
+            "background": "drip/bg/drip_bg_cyber/drip_bg_cyber",
+            "icon": "drip/bg/drip_bg_cyber/icon_drip_bg_cyber",
+            "isPro": true
+        },
+        {
+            "id": 3,
+            "OrderInTab": 0,
+            "name": {
+                "en": "EM"
+            },
+            "color": "0xFF311B92",
+            "category": {
+                "en": "Emoji"
+            },
+            "count": 3,
+            "background": "drip/bg/drip_bg_emoji/drip_bg_emoji",
+            "icon": "drip/bg/drip_bg_emoji/icon_drip_bg_emoji",
+            "isPro": true
+        },
+        {
+            "id": 4,
+            "OrderInTab": 0,
+            "name": {
+                "en": "VI"
+            },
+            "color": "0xFF1A237E",
+            "category": {
+                "en": "Vibe"
+            },
+            "count": 10,
+            "background": "drip/bg/drip_bg_vibe/drip_bg_vibe",
+            "icon": "drip/bg/drip_bg_vibe/icon_drip_bg_vibe",
+            "isPro": true
+        },
+        {
+            "id": 5,
+            "OrderInTab": 0,
+            "name": {
+                "en": "NE"
+            },
+            "color": "0xFF0D47A1",
+            "category": {
+                "en": "Neon"
+            },
+            "count": 6,
+            "background": "drip/bg/drip_bg_neon/drip_bg_neon",
+            "icon": "drip/bg/drip_bg_neon/icon_drip_bg_neon",
+            "isPro": true
+        },
+        {
+            "id": 6,
+            "OrderInTab": 0,
+            "name": {
+                "en": "SH"
+            },
+            "color": "0xFF01579B",
+            "category": {
+                "en": "Shape"
+            },
+            "count": 9,
+            "background": "drip/bg/drip_bg_shape/drip_bg_shape",
+            "icon": "drip/bg/drip_bg_shape/icon_drip_bg_shape",
+            "isPro": true
+        },
+        {
+            "id": 7,
+            "OrderInTab": 0,
+            "name": {
+                "en": "WI"
+            },
+            "color": "0xFF006064",
+            "category": {
+                "en": "Wild"
+            },
+            "count": 2,
+            "background": "drip/bg/drip_bg_wild/drip_bg_wild",
+            "icon": "drip/bg/drip_bg_wild/icon_drip_bg_wild",
+            "isPro": true
+        },
+        {
+            "id": 8,
+            "OrderInTab": 0,
+            "name": {
+                "en": "ON"
+            },
+            "color": "0xFF004D40",
+            "category": {
+                "en": "Onam"
+            },
+            "count": 3,
+            "background": "drip/bg/drip_bg_onam/drip_bg_onam",
+            "icon": "drip/bg/drip_bg_onam/icon_drip_bg_onam",
+            "isPro": true
+        },
+        {
+            "id": 9,
+            "OrderInTab": 0,
+            "name": {
+                "en": "CE"
+            },
+            "color": "0xFF1B5E20",
+            "category": {
+                "en": "Celebrate"
+            },
+            "count": 8,
+            "background": "drip/bg/drip_bg_celebrate/drip_bg_celebrate",
+            "icon": "drip/bg/drip_bg_celebrate/icon_drip_bg_celebrate",
+            "isPro": true
+        }
+    ]
+}

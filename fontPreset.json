@@ -1,0 +1,56 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id":0,
+            "icon": "",
+            "font": "fontPresets/SingleDay.ttf",
+            "textSize": 30,
+            "textTexture": "",
+            "textGradient": [],
+            "textGradientAngle": 0,
+            "textColor": "0xFFFFD3E8",
+            "textAlignment": "CENTER",
+            "borderTexture": "",
+            "borderGradient": [],
+            "borderGradientAngle": 0,
+            "borderColor": "0xFF827780",
+            "borderWidth": 2,
+            "labelTexture": "",
+            "labelGradient": [],
+            "labelGradientAngle": 0,
+            "labelColor": "0xFF827780",
+            "shadowColors": [],
+            "shadowDx": [],
+            "shadowDy": [],
+            "shadowRad": [],
+            "isPro": true
+        },
+        {
+            "id": 1,
+            "icon": "",
+            "font": "fontPresets/SingleDay.ttf",
+            "textSize": 32,
+            "textTexture": "",
+            "textGradient": [],
+            "textGradientAngle": 0,
+            "textColor": "0xFF2A2A2A",
+            "textAlignment": "CENTER",
+            "borderTexture": "",
+            "borderGradient": ["0xFFC0C0C0", "0xFF8C8C8C"],
+            "borderGradientAngle": 90,
+            "borderColor": "",
+            "borderWidth": 5,
+            "labelTexture": "",
+            "labelGradient": [],
+            "labelGradientAngle": 0,
+            "labelColor": "0xFF303030",
+            "shadowColors": ["0x99000000"],
+            "shadowDx": [3],
+            "shadowDy": [3],
+            "shadowRad": [8],
+            "isPro": true
+        }
+        
+    ]
+}

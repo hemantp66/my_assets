@@ -1,0 +1,185 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 1,
+            "type": 0,
+            "name": {
+                "en": "SP"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Spiral"
+            },
+            "OrderInTab": 1,
+            "count": 35,
+            "icon": "neonEffect/neon_spiral/",
+            "overlay": "neonEffect/neon_spiral/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": {
+                "en": "LV"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Love"
+            },
+            "OrderInTab": 2,
+            "count": 26,
+            "icon": "neonEffect/neon_love/",
+            "overlay": "neonEffect/neon_love/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 3,
+            "type": 0,
+            "name": {
+                "en": "FU"
+            },
+            "color": "0xFF4A148C",
+            "category": {
+                "en": "Funny"
+            },
+            "OrderInTab": 3,
+            "count": 32,
+            "icon": "neonEffect/neon_funny/",
+            "overlay": "neonEffect/neon_funny/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 4,
+            "type": 0,
+            "name": {
+                "en": "WI"
+            },
+            "color": "0xFF311B92",
+            "category": {
+                "en": "Wing"
+            },
+            "OrderInTab": 4,
+            "count": 20,
+            "icon": "neonEffect/neon_wing/",
+            "overlay": "neonEffect/neon_wing/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 5,
+            "type": 0,
+            "name": {
+                "en": "LI"
+            },
+            "color": "0xFF1A237E",
+            "category": {
+                "en": "Line"
+            },
+            "OrderInTab": 5,
+            "count": 21,
+            "icon": "neonEffect/neon_line/",
+            "overlay": "neonEffect/neon_line/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 6,
+            "type": 0,
+            "name": {
+                "en": "EM"
+            },
+            "color": "0xFF0D47A1",
+            "category": {
+                "en": "Emoji"
+            },
+            "OrderInTab": 6,
+            "count": 16,
+            "icon": "neonEffect/neon_emoji1/",
+            "overlay": "neonEffect/neon_emoji1/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 7,
+            "type": 0,
+            "name": {
+                "en": "S"
+            },
+            "color": "0xFF01579B",
+            "category": {
+                "en": "Sign"
+            },
+            "OrderInTab": 7,
+            "count": 2,
+            "icon": "neonEffect/neon_sign/",
+            "overlay": "neonEffect/neon_sign/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 8,
+            "type": 0,
+            "name": {
+                "en": "SY"
+            },
+            "color": "0xFF006064",
+            "category": {
+                "en": "Symbol"
+            },
+            "OrderInTab": 8,
+            "count": 2,
+            "icon": "neonEffect/neon_symbol/",
+            "overlay": "neonEffect/neon_symbol/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 9,
+            "type": 0,
+            "name": {
+                "en": "CE"
+            },
+            "color": "0xFF004D40",
+            "category": {
+                "en": "Celebration"
+            },
+            "OrderInTab": 9,
+            "count": 10,
+            "icon": "neonEffect/neon_celebration/",
+            "overlay": "neonEffect/neon_celebration/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        },
+        {
+            "id": 10,
+            "type": 0,
+            "name": {
+                "en": "EA"
+            },
+            "color": "0xFF1B5E20",
+            "category": {
+                "en": "Easter"
+            },
+            "OrderInTab": 10,
+            "count": 3,
+            "icon": "neonEffect/neon_easter/",
+            "overlay": "neonEffect/neon_easter/",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "isPro": true
+        }
+    ]
+}

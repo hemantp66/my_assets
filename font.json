@@ -1,0 +1,194 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 0,
+            "name": {
+                "en": "Aileron"
+            },
+            "icon": "fonts/Aileron",
+            "font": "fonts/Aileron.otf",
+            "isPro": true
+        },
+        {
+            "id": 1,
+            "name": {
+                "en": "Aleo"
+            },
+            "icon": "fonts/Aleo-Regular",
+            "font": "fonts/Aleo-Regular.otf",
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "name": {
+                "en": "Alex Brush"
+            },
+            "icon": "fonts/AlexBrush-Regular",
+            "font": "fonts/AlexBrush-Regular.ttf",
+            "isPro": true
+        },
+        {
+            "id": 3,
+            "name": {
+                "en": "Amatic SC"
+            },
+            "icon": "fonts/AmaticSC-Regular",
+            "font": "fonts/AmaticSC-Regular.ttf",
+            "isPro": true
+        },
+        {
+            "id": 4,
+            "name": {
+                "en": "Avenir Heavy"
+            },
+            "icon": "fonts/Avenir Heavy",
+            "font": "fonts/Avenir Heavy.otf",
+            "isPro": true
+        },
+        {
+            "id": 5,
+            "name": {
+                "en": "Avenir LT Std Black"
+            },
+            "icon": "fonts/AvenirLTStd-Black",
+            "font": "fonts/AvenirLTStd-Black.otf",
+            "isPro": true
+        },
+        {
+            "id": 6,
+            "name": {
+                "en": "BEBAS"
+            },
+            "icon": "fonts/BEBAS",
+            "font": "fonts/BEBAS.ttf",
+            "isPro": true
+        },
+        {
+            "id": 7,
+            "name": {
+                "en": "Blackout 2am"
+            },
+            "icon": "fonts/Blackout-2am",
+            "font": "fonts/Blackout-2am.ttf",
+            "isPro": true
+        },
+        {
+            "id": 8,
+            "name": {
+                "en": "Blackout Midnight"
+            },
+            "icon": "fonts/Blackout-Midnight",
+            "font": "fonts/Blackout-Midnight.ttf",
+            "isPro": true
+        },
+        {
+            "id": 9,
+            "name": {
+                "en": "Caviar Dreams"
+            },
+            "icon": "fonts/CaviarDreams",
+            "font": "fonts/CaviarDreams.ttf",
+            "isPro": true
+        },
+        {
+            "id": 10,
+            "name": {
+                "en": "Dancing Script"
+            },
+            "icon": "fonts/dancingscript",
+            "font": "fonts/dancingscript.otf",
+            "isPro": true
+        },
+        {
+            "id": 11,
+            "name": {
+                "en": "Daniel BD"
+            },
+            "icon": "fonts/danielbd",
+            "font": "fonts/danielbd.ttf",
+            "isPro": true
+        },
+        {
+            "id": 12,
+            "name": {
+                "en": "Lobster"
+            },
+            "icon": "fonts/Lobster",
+            "font": "fonts/Lobster.otf",
+            "isPro": true
+        },
+        {
+            "id": 13,
+            "name": {
+                "en": "Permanent Marker"
+            },
+            "icon": "fonts/PermanentMarker",
+            "font": "fonts/PermanentMarker.ttf",
+            "isPro": true
+        },
+        {
+            "id": 14,
+            "name": {
+                "en": "PUSAB"
+            },
+            "icon": "fonts/PUSAB",
+            "font": "fonts/PUSAB.otf",
+            "isPro": true
+        },
+        {
+            "id": 15,
+            "name": {
+                "en": "Roboto Medium"
+            },
+            "icon": "fonts/Roboto-Medium",
+            "font": "fonts/Roboto-Medium.ttf",
+            "isPro": true
+        },
+        {
+            "id": 16,
+            "name": {
+                "en": "Roboto Regular"
+            },
+            "icon": "fonts/Roboto-Regular",
+            "font": "fonts/Roboto-Regular.ttf",
+            "isPro": true
+        },
+        {
+            "id": 17,
+            "name": {
+                "en": "Roboto Thin"
+            },
+            "icon": "fonts/Roboto-Thin",
+            "font": "fonts/Roboto-Thin.ttf",
+            "isPro": true
+        },
+        {
+            "id": 18,
+            "name": {
+                "en": "Roboto Condensed Regular"
+            },
+            "icon": "fonts/RobotoCondensed-Regular",
+            "font": "fonts/RobotoCondensed-Regular.ttf",
+            "isPro": true
+        },
+        {
+            "id": 19,
+            "name": {
+                "en": "Sail"
+            },
+            "icon": "fonts/Sail",
+            "font": "fonts/Sail.ttf",
+            "isPro": true
+        },
+        {
+            "id": 20,
+            "name": {
+                "en": "SEASRN"
+            },
+            "icon": "fonts/SEASRN",
+            "font": "fonts/SEASRN.ttf",
+            "isPro": true
+        }
+    ]
+}

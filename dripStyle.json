@@ -1,0 +1,205 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 0,
+            "name": {
+                "en": "drip_style_1"
+            },
+            "OrderInTab": 0,
+            "icon": "drip/style/icon_drip_style_1",
+            "style": "drip/style/drip_style_1",
+            "isPro": true
+        },
+        {
+            "id": 1,
+            "name": {
+                "en": "drip_style_2"
+            },
+            "OrderInTab": 1,
+            "icon": "drip/style/icon_drip_style_2",
+            "style": "drip/style/drip_style_2",
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "name": {
+                "en": "drip_style_3"
+            },
+            "OrderInTab": 2,
+            "icon": "drip/style/icon_drip_style_3",
+            "style": "drip/style/drip_style_3",
+            "isPro": true
+        },
+        {
+            "id": 3,
+            "name": {
+                "en": "drip_style_4"
+            },
+            "OrderInTab": 3,
+            "icon": "drip/style/icon_drip_style_4",
+            "style": "drip/style/drip_style_4",
+            "isPro": true
+        },
+        {
+            "id": 4,
+            "name": {
+                "en": "drip_style_5"
+            },
+            "OrderInTab": 4,
+            "icon": "drip/style/icon_drip_style_5",
+            "style": "drip/style/drip_style_5",
+            "isPro": true
+        },
+        {
+            "id": 5,
+            "name": {
+                "en": "drip_style_6"
+            },
+            "OrderInTab": 5,
+            "icon": "drip/style/icon_drip_style_6",
+            "style": "drip/style/drip_style_6",
+            "isPro": true
+        },
+        {
+            "id": 6,
+            "name": {
+                "en": "drip_style_7"
+            },
+            "OrderInTab": 6,
+            "icon": "drip/style/icon_drip_style_7",
+            "style": "drip/style/drip_style_7",
+            "isPro": true
+        },
+        {
+            "id": 7,
+            "name": {
+                "en": "drip_style_8"
+            },
+            "OrderInTab": 7,
+            "icon": "drip/style/icon_drip_style_8",
+            "style": "drip/style/drip_style_8",
+            "isPro": true
+        },
+        {
+            "id": 8,
+            "name": {
+                "en": "drip_style_9"
+            },
+            "OrderInTab": 8,
+            "icon": "drip/style/icon_drip_style_9",
+            "style": "drip/style/drip_style_9",
+            "isPro": true
+        },
+        {
+            "id": 9,
+            "name": {
+                "en": "drip_style_10"
+            },
+            "OrderInTab": 9,
+            "icon": "drip/style/icon_drip_style_10",
+            "style": "drip/style/drip_style_10",
+            "isPro": true
+        },
+        {
+            "id": 10,
+            "name": {
+                "en": "drip_style_11"
+            },
+            "OrderInTab": 10,
+            "icon": "drip/style/icon_drip_style_11",
+            "style": "drip/style/drip_style_11",
+            "isPro": true
+        },
+        {
+            "id": 11,
+            "name": {
+                "en": "drip_style_12"
+            },
+            "OrderInTab": 11,
+            "icon": "drip/style/icon_drip_style_12",
+            "style": "drip/style/drip_style_12",
+            "isPro": true
+        },
+        {
+            "id": 12,
+            "name": {
+                "en": "drip_style_13"
+            },
+            "OrderInTab": 12,
+            "icon": "drip/style/icon_drip_style_13",
+            "style": "drip/style/drip_style_13",
+            "isPro": true
+        },
+        {
+            "id": 13,
+            "name": {
+                "en": "drip_style_14"
+            },
+            "OrderInTab": 13,
+            "icon": "drip/style/icon_drip_style_14",
+            "style": "drip/style/drip_style_14",
+            "isPro": true
+        },
+        {
+            "id": 14,
+            "name": {
+                "en": "drip_style_15"
+            },
+            "OrderInTab": 14,
+            "icon": "drip/style/icon_drip_style_15",
+            "style": "drip/style/drip_style_15",
+            "isPro": true
+        },
+        {
+            "id": 15,
+            "name": {
+                "en": "drip_style_16"
+            },
+            "OrderInTab": 15,
+            "icon": "drip/style/icon_drip_style_16",
+            "style": "drip/style/drip_style_16",
+            "isPro": true
+        },
+        {
+            "id": 16,
+            "name": {
+                "en": "drip_style_17"
+            },
+            "OrderInTab": 16,
+            "icon": "drip/style/icon_drip_style_17",
+            "style": "drip/style/drip_style_17",
+            "isPro": true
+        },
+        {
+            "id": 17,
+            "name": {
+                "en": "drip_style_18"
+            },
+            "OrderInTab": 17,
+            "icon": "drip/style/icon_drip_style_18",
+            "style": "drip/style/drip_style_18",
+            "isPro": true
+        },
+        {
+            "id": 18,
+            "name": {
+                "en": "drip_style_19"
+            },
+            "OrderInTab": 18,
+            "icon": "drip/style/icon_drip_style_19",
+            "style": "drip/style/drip_style_19",
+            "isPro": true
+        },
+        {
+            "id": 19,
+            "name": {
+                "en": "drip_style_20"
+            },
+            "OrderInTab": 19,
+            "icon": "drip/style/icon_drip_style_20",
+            "style": "drip/style/drip_style_20",
+            "isPro": true
+        }
+    ]
+}

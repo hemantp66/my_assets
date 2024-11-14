@@ -1,0 +1,898 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": 1,
+            "type": 0,
+            "name": {
+                "en": "SL"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "String Lights"
+            },
+            "OrderInTab": 1,
+            "count": 7,
+            "overlay": "glarefx/lightfx_string_lights/lightfx_string_lights",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": {
+                "en": "HA"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Halo"
+            },
+            "OrderInTab": 2,
+            "count": 6,
+            "overlay": "glarefx/lightfx_halo/lightfx_halo",
+            "positionMode": 1,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 3,
+            "type": 0,
+            "name": {
+                "en": "SM"
+            },
+            "color": "0xFF4A148C",
+            "category": {
+                "en": "Smoke"
+            },
+            "OrderInTab": 3,
+            "count": 5,
+            "overlay": "glarefx/lightfx_smoke/lightfx_smoke",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 4,
+            "type": 0,
+            "name": {
+                "en": "DS"
+            },
+            "color": "0xFF311B92",
+            "category": {
+                "en": "Dust & Sunlight"
+            },
+            "OrderInTab": 4,
+            "count": 8,
+            "overlay": "glarefx/lightfx_dust_sunlight/lightfx_dust_sunlight",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 5,
+            "type": 0,
+            "name": {
+                "en": "LS"
+            },
+            "color": "0xFF1A237E",
+            "category": {
+                "en": "Lace Shadow"
+            },
+            "OrderInTab": 5,
+            "count": 7,
+            "overlay": "glarefx/lightfx_lace_shadow/lightfx_lace_shadow",
+            "positionMode": 0,
+            "overlayMode": 5,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 6,
+            "type": 0,
+            "name": {
+                "en": "DI"
+            },
+            "color": "0xFF0D47A1",
+            "category": {
+                "en": "Diamond"
+            },
+            "OrderInTab": 6,
+            "count": 8,
+            "overlay": "glarefx/lightfx_diamond/lightfx_diamond",
+            "positionMode": 0,
+            "overlayMode": 4,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 7,
+            "type": 0,
+            "name": {
+                "en": "FO"
+            },
+            "color": "0xFF01579B",
+            "category": {
+                "en": "Fog Overlay"
+            },
+            "OrderInTab": 7,
+            "count": 7,
+            "overlay": "glarefx/lightfx_fog_overlay/lightfx_fog_overlay",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 8,
+            "type": 0,
+            "name": {
+                "en": "TP"
+            },
+            "color": "0xFF006064",
+            "category": {
+                "en": "Torn Paper"
+            },
+            "OrderInTab": 8,
+            "count": 9,
+            "overlay": "glarefx/lightfx_torn_paper/lightfx_torn_paper",
+            "positionMode": 0,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 9,
+            "type": 0,
+            "name": {
+                "en": "RE"
+            },
+            "color": "0xFF004D40",
+            "category": {
+                "en": "Rusty Effects"
+            },
+            "OrderInTab": 9,
+            "count": 6,
+            "overlay": "glarefx/lightfx_rusty/lightfx_rusty",
+            "positionMode": 0,
+            "overlayMode": 1,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 10,
+            "type": 0,
+            "name": {
+                "en": "NE"
+            },
+            "color": "0xFF1B5E20",
+            "category": {
+                "en": "Neon#2"
+            },
+            "OrderInTab": 10,
+            "count": 9,
+            "overlay": "glarefx/lightfx_neon_2/lightfx_neon_2",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 11,
+            "type": 0,
+            "name": {
+                "en": "FA"
+            },
+            "color": "0xFF33691E",
+            "category": {
+                "en": "Fantasy"
+            },
+            "OrderInTab": 11,
+            "count": 7,
+            "overlay": "glarefx/lightfx_fantasy/lightfx_fantasy",
+            "positionMode": 1,
+            "overlayMode": 4,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 12,
+            "type": 0,
+            "name": {
+                "en": "DS"
+            },
+            "color": "0xFFBF360C",
+            "category": {
+                "en": "Dust & Scratch"
+            },
+            "OrderInTab": 12,
+            "count": 7,
+            "overlay": "glarefx/lightfx_dust_scratch/lightfx_dust_scratch",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 13,
+            "type": 0,
+            "name": {
+                "en": "LO"
+            },
+            "color": "0xFF3E2723",
+            "category": {
+                "en": "Love"
+            },
+            "OrderInTab": 13,
+            "count": 7,
+            "overlay": "glarefx/lightfx_love/lightfx_love",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 14,
+            "type": 0,
+            "name": {
+                "en": "PE"
+            },
+            "color": "0xFF212121",
+            "category": {
+                "en": "Powder Explosion"
+            },
+            "OrderInTab": 14,
+            "count": 8,
+            "overlay": "glarefx/lightfx_powder_explosion/lightfx_powder_explosion",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 15,
+            "type": 0,
+            "name": {
+                "en": "RD"
+            },
+            "color": "0xFF263238",
+            "category": {
+                "en": "Rainy Day"
+            },
+            "OrderInTab": 15,
+            "count": 8,
+            "overlay": "glarefx/lightfx_rainy_day/lightfx_rainy_day",
+            "positionMode": 1,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 16,
+            "type": 0,
+            "name": {
+                "en": "ML"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Miracle Light"
+            },
+            "OrderInTab": 16,
+            "count": 7,
+            "overlay": "glarefx/lightfx_miracle_light/lightfx_miracle_light",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 17,
+            "type": 0,
+            "name": {
+                "en": "LL"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Light Leaks"
+            },
+            "OrderInTab": 17,
+            "count": 7,
+            "overlay": "glarefx/lightfx_light_leaks/lightfx_light_leaks",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 18,
+            "type": 0,
+            "name": {
+                "en": "HA"
+            },
+            "color": "0xFF4A148C",
+            "category": {
+                "en": "Halloween"
+            },
+            "OrderInTab": 18,
+            "count": 7,
+            "overlay": "glarefx/lightfx_halloween/lightfx_halloween",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 19,
+            "type": 0,
+            "name": {
+                "en": "WP"
+            },
+            "color": "0xFF311B92",
+            "category": {
+                "en": "Wrinkle Paper"
+            },
+            "OrderInTab": 19,
+            "count": 7,
+            "overlay": "glarefx/lightfx_wrinkle_paper/lightfx_wrinkle_paper",
+            "positionMode": 0,
+            "overlayMode": 1,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 20,
+            "type": 0,
+            "name": {
+                "en": "EX"
+            },
+            "color": "0xFF1A237E",
+            "category": {
+                "en": "Explosion"
+            },
+            "OrderInTab": 20,
+            "count": 6,
+            "overlay": "glarefx/lightfx_explosion/lightfx_explosion",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 21,
+            "type": 0,
+            "name": {
+                "en": "LI"
+            },
+            "color": "0xFF0D47A1",
+            "category": {
+                "en": "Lightning"
+            },
+            "OrderInTab": 21,
+            "count": 7,
+            "overlay": "glarefx/lightfx_lightning/lightfx_lightning",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 22,
+            "type": 0,
+            "name": {
+                "en": "H"
+            },
+            "color": "0xFF01579B",
+            "category": {
+                "en": "Heart"
+            },
+            "OrderInTab": 22,
+            "count": 6,
+            "overlay": "glarefx/lightfx_heart/lightfx_heart",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 23,
+            "type": 0,
+            "name": {
+                "en": "RB"
+            },
+            "color": "0xFF006064",
+            "category": {
+                "en": "Rainbow"
+            },
+            "OrderInTab": 23,
+            "count": 6,
+            "overlay": "glarefx/lightfx_rainbow/lightfx_rainbow",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 24,
+            "type": 0,
+            "name": {
+                "en": "N"
+            },
+            "color": "0xFF004D40",
+            "category": {
+                "en": "Neon"
+            },
+            "OrderInTab": 24,
+            "count": 7,
+            "overlay": "glarefx/lightfx_neon/lightfx_neon",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 25,
+            "type": 0,
+            "name": {
+                "en": "LS"
+            },
+            "color": "0xFF1B5E20",
+            "category": {
+                "en": "Light & Shadow"
+            },
+            "OrderInTab": 25,
+            "count": 8,
+            "overlay": "glarefx/lightfx_light_shadow/lightfx_light_shadow",
+            "positionMode": 1,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 26,
+            "type": 0,
+            "name": {
+                "en": "CO"
+            },
+            "color": "0xFF33691E",
+            "category": {
+                "en": "Confetti"
+            },
+            "OrderInTab": 26,
+            "count": 8,
+            "overlay": "glarefx/lightfx_confetti/lightfx_confetti",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 27,
+            "type": 0,
+            "name": {
+                "en": "BG"
+            },
+            "color": "0xFFBF360C",
+            "category": {
+                "en": "Broken Glass#1"
+            },
+            "OrderInTab": 27,
+            "count": 6,
+            "overlay": "glarefx/lightfx_broken_glass_1/lightfx_broken_glass_1",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 28,
+            "type": 0,
+            "name": {
+                "en": "BG"
+            },
+            "color": "0xFF3E2723",
+            "category": {
+                "en": "Broken Glass#2"
+            },
+            "OrderInTab": 28,
+            "count": 6,
+            "overlay": "glarefx/lightfx_broken_glass_2/lightfx_broken_glass_2",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 29,
+            "type": 0,
+            "name": {
+                "en": "SL"
+            },
+            "color": "0xFF212121",
+            "category": {
+                "en": "Speed Lines"
+            },
+            "OrderInTab": 29,
+            "count": 4,
+            "overlay": "glarefx/lightfx_speed_lines/lightfx_speed_lines",
+            "positionMode": 1,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 30,
+            "type": 0,
+            "name": {
+                "en": "G"
+            },
+            "color": "0xFF263238",
+            "category": {
+                "en": "Glitch"
+            },
+            "OrderInTab": 30,
+            "count": 6,
+            "overlay": "glarefx/lightfx_glitch/lightfx_glitch",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 31,
+            "type": 0,
+            "name": {
+                "en": "DL"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Dreamy Light"
+            },
+            "OrderInTab": 31,
+            "count": 8,
+            "overlay": "glarefx/lightfx_dreamy_light/lightfx_dreamy_light",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 32,
+            "type": 0,
+            "name": {
+                "en": "PW"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Plastic Wrap"
+            },
+            "OrderInTab": 32,
+            "count": 7,
+            "overlay": "glarefx/lightfx_plastic_wrap/lightfx_plastic_wrap",
+            "positionMode": 1,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 33,
+            "type": 0,
+            "name": {
+                "en": "GS"
+            },
+            "color": "0xFF4A148C",
+            "category": {
+                "en": "Grain Splash"
+            },
+            "OrderInTab": 33,
+            "count": 5,
+            "overlay": "glarefx/lightfx_grainsplash/lightfx_grainsplash",
+            "positionMode": 0,
+            "overlayMode": 5,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 34,
+            "type": 0,
+            "name": {
+                "en": "FR"
+            },
+            "color": "0xFF311B92",
+            "category": {
+                "en": "Fire"
+            },
+            "OrderInTab": 34,
+            "count": 6,
+            "overlay": "glarefx/lightfx_fire/lightfx_fire",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 35,
+            "type": 0,
+            "name": {
+                "en": "BU"
+            },
+            "color": "0xFF1A237E",
+            "category": {
+                "en": "Bubble"
+            },
+            "OrderInTab": 35,
+            "count": 6,
+            "overlay": "glarefx/lightfx_bubble/lightfx_bubble",
+            "positionMode": 0,
+            "overlayMode": 2,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 36,
+            "type": 0,
+            "name": {
+                "en": "S"
+            },
+            "color": "0xFF0D47A1",
+            "category": {
+                "en": "Splash"
+            },
+            "OrderInTab": 36,
+            "count": 4,
+            "overlay": "glarefx/lightfx_splash/lightfx_splash",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 37,
+            "type": 0,
+            "name": {
+                "en": "LE"
+            },
+            "color": "0xFF01579B",
+            "category": {
+                "en": "Leaks"
+            },
+            "OrderInTab": 37,
+            "count": 6,
+            "overlay": "glarefx/lightfx_leaks/lightfx_leaks",
+            "positionMode": 1,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 38,
+            "type": 0,
+            "name": {
+                "en": "FL"
+            },
+            "color": "0xFF006064",
+            "category": {
+                "en": "Film Leak"
+            },
+            "OrderInTab": 38,
+            "count": 6,
+            "overlay": "glarefx/lightfx_filmleak/lightfx_filmleak",
+            "positionMode": 1,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 39,
+            "type": 0,
+            "name": {
+                "en": "LF"
+            },
+            "color": "0xFF004D40",
+            "category": {
+                "en": "Lens Flares"
+            },
+            "OrderInTab": 39,
+            "count": 6,
+            "overlay": "glarefx/lightfx_lensflares/lightfx_lensflares",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 40,
+            "type": 0,
+            "name": {
+                "en": "SB"
+            },
+            "color": "0xFF1B5E20",
+            "category": {
+                "en": "Shape Bokeh"
+            },
+            "OrderInTab": 40,
+            "count": 5,
+            "overlay": "glarefx/lightfx_shape_bokeh/lightfx_shape_bokeh",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 41,
+            "type": 0,
+            "name": {
+                "en": "B"
+            },
+            "color": "0xFF33691E",
+            "category": {
+                "en": "Bokeh"
+            },
+            "OrderInTab": 41,
+            "count": 5,
+            "overlay": "glarefx/lightfx_bokeh/lightfx_bokeh",
+            "positionMode": 1,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 42,
+            "type": 0,
+            "name": {
+                "en": "AU"
+            },
+            "color": "0xFFBF360C",
+            "category": {
+                "en": "Autumn"
+            },
+            "OrderInTab": 42,
+            "count": 9,
+            "overlay": "glarefx/lightfx_autumn/lightfx_autumn",
+            "positionMode": 1,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 43,
+            "type": 0,
+            "name": {
+                "en": "FL"
+            },
+            "color": "0xFF3E2723",
+            "category": {
+                "en": "Flurries"
+            },
+            "OrderInTab": 43,
+            "count": 7,
+            "overlay": "glarefx/lightfx_flurries/lightfx_flurries",
+            "positionMode": 1,
+            "overlayMode": 0,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 44,
+            "type": 0,
+            "name": {
+                "en": "CS1"
+            },
+            "color": "0xFF212121",
+            "category": {
+                "en": "Xmas Sparkle#1"
+            },
+            "OrderInTab": 44,
+            "count": 6,
+            "overlay": "glarefx/lightfx_xms_sparkle_1/lightfx_xms_sparkle_1",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 45,
+            "type": 0,
+            "name": {
+                "en": "CS2"
+            },
+            "color": "0xFF263238",
+            "category": {
+                "en": "Xmas Sparkle#2"
+            },
+            "OrderInTab": 45,
+            "count": 6,
+            "overlay": "glarefx/lightfx_xms_sparkle_2/lightfx_xms_sparkle_2",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 46,
+            "type": 0,
+            "name": {
+                "en": "F1"
+            },
+            "color": "0xFFB71C1C",
+            "category": {
+                "en": "Fireworks#1"
+            },
+            "OrderInTab": 46,
+            "count": 6,
+            "overlay": "glarefx/lightfx_fireworks_1/lightfx_fireworks_1",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        },
+        {
+            "id": 47,
+            "type": 0,
+            "name": {
+                "en": "F2"
+            },
+            "color": "0xFF880E4F",
+            "category": {
+                "en": "Fireworks#2"
+            },
+            "OrderInTab": 47,
+            "count": 6,
+            "overlay": "glarefx/lightfx_fireworks_2/lightfx_fireworks_2",
+            "positionMode": 0,
+            "overlayMode": 3,
+            "opacity": 100,
+            "isOpacityEnabled": true,
+            "isPro": true
+        }
+    ]
+}
