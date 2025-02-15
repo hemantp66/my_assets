@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": 1,
+      "name": {
+        "en": "style_1"
+      },
+      "OrderInTab": 1,
+      "icon": "frames/style_1_icon.png",
+      "frame": "frames/style_1.png",
+      "isPro": true
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "style_10"
+      },
+      "OrderInTab": 2,
+      "icon": "frames/style_10_icon.png",
+      "frame": "frames/style_10.png",
+      "isPro": true
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "style_11"
+      },
+      "OrderInTab": 3,
+      "icon": "frames/style_11_icon.png",
+      "frame": "frames/style_11.png",
+      "isPro": true
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "style_12"
+      },
+      "OrderInTab": 4,
+      "icon": "frames/style_12_icon.png",
+      "frame": "frames/style_12.png",
+      "isPro": true
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "style_13"
+      },
+      "OrderInTab": 5,
+      "icon": "frames/style_13_icon.png",
+      "frame": "frames/style_13.png",
+      "isPro": true
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "style_14"
+      },
+      "OrderInTab": 6,
+      "icon": "frames/style_14_icon.png",
+      "frame": "frames/style_14.png",
+      "isPro": true
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "style_15"
+      },
+      "OrderInTab": 7,
+      "icon": "frames/style_15_icon.png",
+      "frame": "frames/style_15.png",
+      "isPro": true
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "style_16"
+      },
+      "OrderInTab": 8,
+      "icon": "frames/style_16_icon.png",
+      "frame": "frames/style_16.png",
+      "isPro": true
+    },
+    {
+      "id": 9,
+      "name": {
+        "en": "style_17"
+      },
+      "OrderInTab": 9,
+      "icon": "frames/style_17_icon.png",
+      "frame": "frames/style_17.png",
+      "isPro": true
+    },
+    {
+      "id": 10,
+      "name": {
+        "en": "style_18"
+      },
+      "OrderInTab": 10,
+      "icon": "frames/style_18_icon.png",
+      "frame": "frames/style_18.png",
+      "isPro": true
+    },
+    {
+      "id": 11,
+      "name": {
+        "en": "style_19"
+      },
+      "OrderInTab": 11,
+      "icon": "frames/style_19_icon.png",
+      "frame": "frames/style_19.png",
+      "isPro": true
+    },
+    {
+      "id": 12,
+      "name": {
+        "en": "style_2"
+      },
+      "OrderInTab": 12,
+      "icon": "frames/style_2_icon.png",
+      "frame": "frames/style_2.png",
+      "isPro": true
+    },
+    {
+      "id": 13,
+      "name": {
+        "en": "style_20"
+      },
+      "OrderInTab": 13,
+      "icon": "frames/style_20_icon.png",
+      "frame": "frames/style_20.png",
+      "isPro": true
+    },
+    {
+      "id": 14,
+      "name": {
+        "en": "style_21"
+      },
+      "OrderInTab": 14,
+      "icon": "frames/style_21_icon.png",
+      "frame": "frames/style_21.png",
+      "isPro": true
+    },
+    {
+      "id": 15,
+      "name": {
+        "en": "style_22"
+      },
+      "OrderInTab": 15,
+      "icon": "frames/style_22_icon.png",
+      "frame": "frames/style_22.png",
+      "isPro": true
+    },
+    {
+      "id": 16,
+      "name": {
+        "en": "style_23"
+      },
+      "OrderInTab": 16,
+      "icon": "frames/style_23_icon.png",
+      "frame": "frames/style_23.png",
+      "isPro": true
+    },
+    {
+      "id": 17,
+      "name": {
+        "en": "style_24"
+      },
+      "OrderInTab": 17,
+      "icon": "frames/style_24_icon.png",
+      "frame": "frames/style_24.png",
+      "isPro": true
+    },
+    {
+      "id": 18,
+      "name": {
+        "en": "style_25"
+      },
+      "OrderInTab": 18,
+      "icon": "frames/style_25_icon.png",
+      "frame": "frames/style_25.png",
+      "isPro": true
+    },
+    {
+      "id": 19,
+      "name": {
+        "en": "style_26"
+      },
+      "OrderInTab": 19,
+      "icon": "frames/style_26_icon.png",
+      "frame": "frames/style_26.png",
+      "isPro": true
+    },
+    {
+      "id": 20,
+      "name": {
+        "en": "style_27"
+      },
+      "OrderInTab": 20,
+      "icon": "frames/style_27_icon.png",
+      "frame": "frames/style_27.png",
+      "isPro": true
+    },
+    {
+      "id": 21,
+      "name": {
+        "en": "style_28"
+      },
+      "OrderInTab": 21,
+      "icon": "frames/style_28_icon.png",
+      "frame": "frames/style_28.png",
+      "isPro": true
+    },
+    {
+      "id": 22,
+      "name": {
+        "en": "style_29"
+      },
+      "OrderInTab": 22,
+      "icon": "frames/style_29_icon.png",
+      "frame": "frames/style_29.png",
+      "isPro": true
+    },
+    {
+      "id": 23,
+      "name": {
+        "en": "style_3"
+      },
+      "OrderInTab": 23,
+      "icon": "frames/style_3_icon.png",
+      "frame": "frames/style_3.png",
+      "isPro": true
+    },
+    {
+      "id": 24,
+      "name": {
+        "en": "style_30"
+      },
+      "OrderInTab": 24,
+      "icon": "frames/style_30_icon.png",
+      "frame": "frames/style_30.png",
+      "isPro": true
+    },
+    {
+      "id": 25,
+      "name": {
+        "en": "style_31"
+      },
+      "OrderInTab": 25,
+      "icon": "frames/style_31_icon.png",
+      "frame": "frames/style_31.png",
+      "isPro": true
+    },
+    {
+      "id": 26,
+      "name": {
+        "en": "style_32"
+      },
+      "OrderInTab": 26,
+      "icon": "frames/style_32_icon.png",
+      "frame": "frames/style_32.png",
+      "isPro": true
+    },
+    {
+      "id": 27,
+      "name": {
+        "en": "style_33"
+      },
+      "OrderInTab": 27,
+      "icon": "frames/style_33_icon.png",
+      "frame": "frames/style_33.png",
+      "isPro": true
+    },
+    {
+      "id": 28,
+      "name": {
+        "en": "style_34"
+      },
+      "OrderInTab": 28,
+      "icon": "frames/style_34_icon.png",
+      "frame": "frames/style_34.png",
+      "isPro": true
+    },
+    {
+      "id": 29,
+      "name": {
+        "en": "style_35"
+      },
+      "OrderInTab": 29,
+      "icon": "frames/style_35_icon.png",
+      "frame": "frames/style_35.png",
+      "isPro": true
+    },
+    {
+      "id": 30,
+      "name": {
+        "en": "style_36"
+      },
+      "OrderInTab": 30,
+      "icon": "frames/style_36_icon.png",
+      "frame": "frames/style_36.png",
+      "isPro": true
+    },
+    {
+      "id": 31,
+      "name": {
+        "en": "style_37"
+      },
+      "OrderInTab": 31,
+      "icon": "frames/style_37_icon.png",
+      "frame": "frames/style_37.png",
+      "isPro": true
+    },
+    {
+      "id": 32,
+      "name": {
+        "en": "style_38"
+      },
+      "OrderInTab": 32,
+      "icon": "frames/style_38_icon.png",
+      "frame": "frames/style_38.png",
+      "isPro": true
+    },
+    {
+      "id": 33,
+      "name": {
+        "en": "style_39"
+      },
+      "OrderInTab": 33,
+      "icon": "frames/style_39_icon.png",
+      "frame": "frames/style_39.png",
+      "isPro": true
+    },
+    {
+      "id": 34,
+      "name": {
+        "en": "style_4"
+      },
+      "OrderInTab": 34,
+      "icon": "frames/style_4_icon.png",
+      "frame": "frames/style_4.png",
+      "isPro": true
+    },
+    {
+      "id": 35,
+      "name": {
+        "en": "style_40"
+      },
+      "OrderInTab": 35,
+      "icon": "frames/style_40_icon.png",
+      "frame": "frames/style_40.png",
+      "isPro": true
+    },
+    {
+      "id": 36,
+      "name": {
+        "en": "style_41"
+      },
+      "OrderInTab": 36,
+      "icon": "frames/style_41_icon.png",
+      "frame": "frames/style_41.png",
+      "isPro": true
+    },
+    {
+      "id": 37,
+      "name": {
+        "en": "style_42"
+      },
+      "OrderInTab": 37,
+      "icon": "frames/style_42_icon.png",
+      "frame": "frames/style_42.png",
+      "isPro": true
+    },
+    {
+      "id": 38,
+      "name": {
+        "en": "style_43"
+      },
+      "OrderInTab": 38,
+      "icon": "frames/style_43_icon.png",
+      "frame": "frames/style_43.png",
+      "isPro": true
+    },
+    {
+      "id": 39,
+      "name": {
+        "en": "style_44"
+      },
+      "OrderInTab": 39,
+      "icon": "frames/style_44_icon.png",
+      "frame": "frames/style_44.png",
+      "isPro": true
+    },
+    {
+      "id": 40,
+      "name": {
+        "en": "style_45"
+      },
+      "OrderInTab": 40,
+      "icon": "frames/style_45_icon.png",
+      "frame": "frames/style_45.png",
+      "isPro": true
+    },
+    {
+      "id": 41,
+      "name": {
+        "en": "style_46"
+      },
+      "OrderInTab": 41,
+      "icon": "frames/style_46_icon.png",
+      "frame": "frames/style_46.png",
+      "isPro": true
+    },
+    {
+      "id": 42,
+      "name": {
+        "en": "style_47"
+      },
+      "OrderInTab": 42,
+      "icon": "frames/style_47_icon.png",
+      "frame": "frames/style_47.png",
+      "isPro": true
+    },
+    {
+      "id": 43,
+      "name": {
+        "en": "style_48"
+      },
+      "OrderInTab": 43,
+      "icon": "frames/style_48_icon.png",
+      "frame": "frames/style_48.png",
+      "isPro": true
+    },
+    {
+      "id": 44,
+      "name": {
+        "en": "style_49"
+      },
+      "OrderInTab": 44,
+      "icon": "frames/style_49_icon.png",
+      "frame": "frames/style_49.png",
+      "isPro": true
+    },
+    {
+      "id": 45,
+      "name": {
+        "en": "style_5"
+      },
+      "OrderInTab": 45,
+      "icon": "frames/style_5_icon.png",
+      "frame": "frames/style_5.png",
+      "isPro": true
+    },
+    {
+      "id": 46,
+      "name": {
+        "en": "style_50"
+      },
+      "OrderInTab": 46,
+      "icon": "frames/style_50_icon.png",
+      "frame": "frames/style_50.png",
+      "isPro": true
+    },
+    {
+      "id": 47,
+      "name": {
+        "en": "style_6"
+      },
+      "OrderInTab": 47,
+      "icon": "frames/style_6_icon.png",
+      "frame": "frames/style_6.png",
+      "isPro": true
+    },
+    {
+      "id": 48,
+      "name": {
+        "en": "style_7"
+      },
+      "OrderInTab": 48,
+      "icon": "frames/style_7_icon.png",
+      "frame": "frames/style_7.png",
+      "isPro": true
+    },
+    {
+      "id": 49,
+      "name": {
+        "en": "style_8"
+      },
+      "OrderInTab": 49,
+      "icon": "frames/style_8_icon.png",
+      "frame": "frames/style_8.png",
+      "isPro": true
+    },
+    {
+      "id": 50,
+      "name": {
+        "en": "style_9"
+      },
+      "OrderInTab": 50,
+      "icon": "frames/style_9_icon.png",
+      "frame": "frames/style_9.png",
+      "isPro": true
+    }
+  ]
+}
