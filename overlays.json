@@ -17,7 +17,8 @@
             "overlay": "overlays/overlay_analog/overlay_analog",
             "positionMode": 0,
             "overlayMode": 2,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -35,7 +36,8 @@
             "overlay": "overlays/overlay_gradient/overlay_gradient",
             "positionMode": 0,
             "overlayMode": 2,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 1,
@@ -53,7 +55,8 @@
             "overlay": "overlays/overlay_holi/overlay_holi",
             "positionMode": 0,
             "overlayMode": 2,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         }
     ]
 }

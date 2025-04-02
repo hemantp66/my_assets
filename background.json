@@ -14,7 +14,8 @@
             "count": 10,
             "background": "drip/bg/drip_bg_splash/drip_bg_splash",
             "icon": "drip/bg/drip_bg_splash/icon_drip_bg_splash",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 1,
@@ -29,7 +30,8 @@
             "count": 5,
             "background": "drip/bg/drip_bg_natural/drip_bg_natural",
             "icon": "drip/bg/drip_bg_natural/icon_drip_bg_natural",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -44,7 +46,8 @@
             "count": 4,
             "background": "drip/bg/drip_bg_cyber/drip_bg_cyber",
             "icon": "drip/bg/drip_bg_cyber/icon_drip_bg_cyber",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -59,7 +62,8 @@
             "count": 3,
             "background": "drip/bg/drip_bg_emoji/drip_bg_emoji",
             "icon": "drip/bg/drip_bg_emoji/icon_drip_bg_emoji",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -74,7 +78,8 @@
             "count": 10,
             "background": "drip/bg/drip_bg_vibe/drip_bg_vibe",
             "icon": "drip/bg/drip_bg_vibe/icon_drip_bg_vibe",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -89,7 +94,8 @@
             "count": 6,
             "background": "drip/bg/drip_bg_neon/drip_bg_neon",
             "icon": "drip/bg/drip_bg_neon/icon_drip_bg_neon",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 6,
@@ -104,7 +110,8 @@
             "count": 9,
             "background": "drip/bg/drip_bg_shape/drip_bg_shape",
             "icon": "drip/bg/drip_bg_shape/icon_drip_bg_shape",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 7,
@@ -119,7 +126,8 @@
             "count": 2,
             "background": "drip/bg/drip_bg_wild/drip_bg_wild",
             "icon": "drip/bg/drip_bg_wild/icon_drip_bg_wild",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 8,
@@ -134,7 +142,8 @@
             "count": 3,
             "background": "drip/bg/drip_bg_onam/drip_bg_onam",
             "icon": "drip/bg/drip_bg_onam/icon_drip_bg_onam",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 9,
@@ -149,7 +158,8 @@
             "count": 8,
             "background": "drip/bg/drip_bg_celebrate/drip_bg_celebrate",
             "icon": "drip/bg/drip_bg_celebrate/icon_drip_bg_celebrate",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         }
     ]
 }

@@ -1,200 +1,215 @@
 {
-  "version": 1,
-  "items": [
-    {
-      "id": 1,
-      "name": {
-        "en": "sticker-0"
-      },
-      "category": {
-        "en": "sticker-0"
-      },
-      "OrderInTab": 1,
-      "count": 46,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 2,
-      "name": {
-        "en": "sticker-1"
-      },
-      "category": {
-        "en": "sticker-1"
-      },
-      "OrderInTab": 2,
-      "count": 25,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 3,
-      "name": {
-        "en": "sticker-10"
-      },
-      "category": {
-        "en": "sticker-10"
-      },
-      "OrderInTab": 3,
-      "count": 16,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 4,
-      "name": {
-        "en": "sticker-11"
-      },
-      "category": {
-        "en": "sticker-11"
-      },
-      "OrderInTab": 4,
-      "count": 32,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 5,
-      "name": {
-        "en": "sticker-12"
-      },
-      "category": {
-        "en": "sticker-12"
-      },
-      "OrderInTab": 5,
-      "count": 20,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 6,
-      "name": {
-        "en": "sticker-13"
-      },
-      "category": {
-        "en": "sticker-13"
-      },
-      "OrderInTab": 6,
-      "count": 30,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 7,
-      "name": {
-        "en": "sticker-14"
-      },
-      "category": {
-        "en": "sticker-14"
-      },
-      "OrderInTab": 7,
-      "count": 45,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 8,
-      "name": {
-        "en": "sticker-2"
-      },
-      "category": {
-        "en": "sticker-2"
-      },
-      "OrderInTab": 8,
-      "count": 28,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 9,
-      "name": {
-        "en": "sticker-3"
-      },
-      "category": {
-        "en": "sticker-3"
-      },
-      "OrderInTab": 9,
-      "count": 26,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 10,
-      "name": {
-        "en": "sticker-4"
-      },
-      "category": {
-        "en": "sticker-4"
-      },
-      "OrderInTab": 10,
-      "count": 20,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 11,
-      "name": {
-        "en": "sticker-5"
-      },
-      "category": {
-        "en": "sticker-5"
-      },
-      "OrderInTab": 11,
-      "count": 30,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 12,
-      "name": {
-        "en": "sticker-6"
-      },
-      "category": {
-        "en": "sticker-6"
-      },
-      "OrderInTab": 12,
-      "count": 20,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 13,
-      "name": {
-        "en": "sticker-7"
-      },
-      "category": {
-        "en": "sticker-7"
-      },
-      "OrderInTab": 13,
-      "count": 26,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 14,
-      "name": {
-        "en": "sticker-8"
-      },
-      "category": {
-        "en": "sticker-8"
-      },
-      "OrderInTab": 14,
-      "count": 24,
-      "icon": "icon.png",
-      "isPro": true
-    },
-    {
-      "id": 15,
-      "name": {
-        "en": "sticker-9"
-      },
-      "category": {
-        "en": "sticker-9"
-      },
-      "OrderInTab": 15,
-      "count": 29,
-      "icon": "icon.png",
-      "isPro": true
-    }
-  ]
+    "version": 1,
+    "items": [
+        {
+            "id": 1,
+            "name": {
+                "en": "sticker-0"
+            },
+            "category": {
+                "en": "sticker-0"
+            },
+            "OrderInTab": 1,
+            "count": 46,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": false
+        },
+        {
+            "id": 2,
+            "name": {
+                "en": "sticker-1"
+            },
+            "category": {
+                "en": "sticker-1"
+            },
+            "OrderInTab": 2,
+            "count": 25,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        },
+        {
+            "id": 3,
+            "name": {
+                "en": "sticker-10"
+            },
+            "category": {
+                "en": "sticker-10"
+            },
+            "OrderInTab": 3,
+            "count": 16,
+            "icon": "icon.png",
+            "isPro": true,
+            "showAds": false
+        },
+        {
+            "id": 4,
+            "name": {
+                "en": "sticker-11"
+            },
+            "category": {
+                "en": "sticker-11"
+            },
+            "OrderInTab": 4,
+            "count": 32,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        },
+        {
+            "id": 5,
+            "name": {
+                "en": "sticker-12"
+            },
+            "category": {
+                "en": "sticker-12"
+            },
+            "OrderInTab": 5,
+            "count": 20,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": false
+        },
+        {
+            "id": 6,
+            "name": {
+                "en": "sticker-13"
+            },
+            "category": {
+                "en": "sticker-13"
+            },
+            "OrderInTab": 6,
+            "count": 30,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        },
+        {
+            "id": 7,
+            "name": {
+                "en": "sticker-14"
+            },
+            "category": {
+                "en": "sticker-14"
+            },
+            "OrderInTab": 7,
+            "count": 45,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        },
+        {
+            "id": 8,
+            "name": {
+                "en": "sticker-2"
+            },
+            "category": {
+                "en": "sticker-2"
+            },
+            "OrderInTab": 8,
+            "count": 28,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": false
+        },
+        {
+            "id": 9,
+            "name": {
+                "en": "sticker-3"
+            },
+            "category": {
+                "en": "sticker-3"
+            },
+            "OrderInTab": 9,
+            "count": 26,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": false
+        },
+        {
+            "id": 10,
+            "name": {
+                "en": "sticker-4"
+            },
+            "category": {
+                "en": "sticker-4"
+            },
+            "OrderInTab": 10,
+            "count": 20,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        },
+        {
+            "id": 11,
+            "name": {
+                "en": "sticker-5"
+            },
+            "category": {
+                "en": "sticker-5"
+            },
+            "OrderInTab": 11,
+            "count": 30,
+            "icon": "icon.png",
+            "isPro": true,
+            "showAds": false
+        },
+        {
+            "id": 12,
+            "name": {
+                "en": "sticker-6"
+            },
+            "category": {
+                "en": "sticker-6"
+            },
+            "OrderInTab": 12,
+            "count": 20,
+            "icon": "icon.png",
+            "isPro": true,
+            "showAds": false
+        },
+        {
+            "id": 13,
+            "name": {
+                "en": "sticker-7"
+            },
+            "category": {
+                "en": "sticker-7"
+            },
+            "OrderInTab": 13,
+            "count": 26,
+            "icon": "icon.png",
+            "isPro": true,
+            "showAds": false
+        },
+        {
+            "id": 14,
+            "name": {
+                "en": "sticker-8"
+            },
+            "category": {
+                "en": "sticker-8"
+            },
+            "OrderInTab": 14,
+            "count": 24,
+            "icon": "icon.png",
+            "isPro": true,
+            "showAds": false
+        },
+        {
+            "id": 15,
+            "name": {
+                "en": "sticker-9"
+            },
+            "category": {
+                "en": "sticker-9"
+            },
+            "OrderInTab": 15,
+            "count": 29,
+            "icon": "icon.png",
+            "isPro": false,
+            "showAds": true
+        }
+    ]
 }

@@ -12,7 +12,8 @@
             },
             "mosaic": "mosaic/mos_1",
             "icon": "mosaic/mos_1",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 1,
@@ -25,7 +26,8 @@
             },
             "mosaic": "mosaic/mos_10",
             "icon": "mosaic/mos_10",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -38,7 +40,8 @@
             },
             "mosaic": "mosaic/mos_11",
             "icon": "mosaic/mos_11",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -51,7 +54,8 @@
             },
             "mosaic": "mosaic/mos_12",
             "icon": "mosaic/mos_12",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -64,7 +68,8 @@
             },
             "mosaic": "mosaic/mos_13",
             "icon": "mosaic/mos_13",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -77,7 +82,8 @@
             },
             "mosaic": "mosaic/mos_14",
             "icon": "mosaic/mos_14",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 6,
@@ -90,7 +96,8 @@
             },
             "mosaic": "mosaic/mos_15",
             "icon": "mosaic/mos_15",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 7,
@@ -103,7 +110,8 @@
             },
             "mosaic": "mosaic/mos_16",
             "icon": "mosaic/mos_16",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 8,
@@ -116,7 +124,8 @@
             },
             "mosaic": "mosaic/mos_17",
             "icon": "mosaic/mos_17",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 9,
@@ -129,7 +138,8 @@
             },
             "mosaic": "mosaic/mos_18",
             "icon": "mosaic/mos_18",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 10,
@@ -142,7 +152,8 @@
             },
             "mosaic": "mosaic/mos_19",
             "icon": "mosaic/mos_19",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 11,
@@ -155,7 +166,8 @@
             },
             "mosaic": "mosaic/mos_2",
             "icon": "mosaic/mos_2",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 12,
@@ -168,7 +180,8 @@
             },
             "mosaic": "mosaic/mos_20",
             "icon": "mosaic/mos_20",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 13,
@@ -181,7 +194,8 @@
             },
             "mosaic": "mosaic/mos_21",
             "icon": "mosaic/mos_21",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 14,
@@ -194,7 +208,8 @@
             },
             "mosaic": "mosaic/mos_22",
             "icon": "mosaic/mos_22",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 15,
@@ -207,7 +222,8 @@
             },
             "mosaic": "mosaic/mos_23",
             "icon": "mosaic/mos_23",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 16,
@@ -220,7 +236,8 @@
             },
             "mosaic": "mosaic/mos_24",
             "icon": "mosaic/mos_24",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 17,
@@ -233,7 +250,8 @@
             },
             "mosaic": "mosaic/mos_25",
             "icon": "mosaic/mos_25",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 18,
@@ -246,7 +264,8 @@
             },
             "mosaic": "mosaic/mos_26",
             "icon": "mosaic/mos_26",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 19,
@@ -259,7 +278,8 @@
             },
             "mosaic": "mosaic/mos_27",
             "icon": "mosaic/mos_27",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 20,
@@ -272,7 +292,8 @@
             },
             "mosaic": "mosaic/mos_28",
             "icon": "mosaic/mos_28",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 21,
@@ -285,7 +306,8 @@
             },
             "mosaic": "mosaic/mos_29",
             "icon": "mosaic/mos_29",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 22,
@@ -298,7 +320,8 @@
             },
             "mosaic": "mosaic/mos_3",
             "icon": "mosaic/mos_3",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 23,
@@ -311,7 +334,8 @@
             },
             "mosaic": "mosaic/mos_30",
             "icon": "mosaic/mos_30",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 24,
@@ -324,7 +348,8 @@
             },
             "mosaic": "mosaic/mos_31",
             "icon": "mosaic/mos_31",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 25,
@@ -337,7 +362,8 @@
             },
             "mosaic": "mosaic/mos_32",
             "icon": "mosaic/mos_32",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 26,
@@ -350,7 +376,8 @@
             },
             "mosaic": "mosaic/mos_33",
             "icon": "mosaic/mos_33",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 27,
@@ -363,7 +390,8 @@
             },
             "mosaic": "mosaic/mos_34",
             "icon": "mosaic/mos_34",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 28,
@@ -376,7 +404,8 @@
             },
             "mosaic": "mosaic/mos_4",
             "icon": "mosaic/mos_4",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 29,
@@ -389,7 +418,8 @@
             },
             "mosaic": "mosaic/mos_5",
             "icon": "mosaic/mos_5",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 30,
@@ -402,7 +432,8 @@
             },
             "mosaic": "mosaic/mos_6",
             "icon": "mosaic/mos_6",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 31,
@@ -415,7 +446,8 @@
             },
             "mosaic": "mosaic/mos_7",
             "icon": "mosaic/mos_7",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 32,
@@ -428,7 +460,8 @@
             },
             "mosaic": "mosaic/mos_8",
             "icon": "mosaic/mos_8",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 33,
@@ -441,7 +474,8 @@
             },
             "mosaic": "mosaic/mos_9",
             "icon": "mosaic/mos_9",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         }
     ]
 }

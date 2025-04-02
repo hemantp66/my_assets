@@ -13,7 +13,8 @@
             "count": 4,
             "icon": "artBrush/bubble/icon.png",
             "brush": "artBrush/bubble/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -27,7 +28,8 @@
             "count": 10,
             "icon": "artBrush/butterflies/icon.png",
             "brush": "artBrush/butterflies/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -41,7 +43,8 @@
             "count": 6,
             "icon": "artBrush/cake/icon.png",
             "brush": "artBrush/cake/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -55,7 +58,8 @@
             "count": 5,
             "icon": "artBrush/christmas/icon.png",
             "brush": "artBrush/christmas/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -69,7 +73,8 @@
             "count": 5,
             "icon": "artBrush/colors/icon.png",
             "brush": "artBrush/colors/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 6,
@@ -83,7 +88,8 @@
             "count": 13,
             "icon": "artBrush/feathers/icon.png",
             "brush": "artBrush/feathers/brush.zip",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 7,
@@ -97,7 +103,8 @@
             "count": 5,
             "icon": "artBrush/firework/icon.png",
             "brush": "artBrush/firework/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 8,
@@ -111,7 +118,8 @@
             "count": 4,
             "icon": "artBrush/flower/icon.png",
             "brush": "artBrush/flower/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 9,
@@ -125,7 +133,8 @@
             "count": 8,
             "icon": "artBrush/icecream/icon.png",
             "brush": "artBrush/icecream/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 10,
@@ -139,7 +148,8 @@
             "count": 4,
             "icon": "artBrush/lights/icon.png",
             "brush": "artBrush/lights/brush.zip",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 11,
@@ -153,7 +163,8 @@
             "count": 4,
             "icon": "artBrush/lime/icon.png",
             "brush": "artBrush/lime/brush.zip",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 12,
@@ -167,7 +178,8 @@
             "count": 5,
             "icon": "artBrush/neon/icon.png",
             "brush": "artBrush/neon/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 13,
@@ -181,7 +193,8 @@
             "count": 8,
             "icon": "artBrush/owl/icon.png",
             "brush": "artBrush/owl/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 14,
@@ -195,7 +208,8 @@
             "count": 4,
             "icon": "artBrush/snow/icon.png",
             "brush": "artBrush/snow/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 15,
@@ -209,7 +223,8 @@
             "count": 7,
             "icon": "artBrush/snowman/icon.png",
             "brush": "artBrush/snowman/brush.zip",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 16,
@@ -223,7 +238,8 @@
             "count": 10,
             "icon": "artBrush/trees/icon.png",
             "brush": "artBrush/trees/brush.zip",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         }
     ]
 }

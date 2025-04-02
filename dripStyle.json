@@ -9,7 +9,8 @@
             "OrderInTab": 0,
             "icon": "drip/style/icon_drip_style_1",
             "style": "drip/style/drip_style_1",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 1,
@@ -19,7 +20,8 @@
             "OrderInTab": 1,
             "icon": "drip/style/icon_drip_style_2",
             "style": "drip/style/drip_style_2",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -29,7 +31,8 @@
             "OrderInTab": 2,
             "icon": "drip/style/icon_drip_style_3",
             "style": "drip/style/drip_style_3",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -39,7 +42,8 @@
             "OrderInTab": 3,
             "icon": "drip/style/icon_drip_style_4",
             "style": "drip/style/drip_style_4",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -49,7 +53,8 @@
             "OrderInTab": 4,
             "icon": "drip/style/icon_drip_style_5",
             "style": "drip/style/drip_style_5",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -59,7 +64,8 @@
             "OrderInTab": 5,
             "icon": "drip/style/icon_drip_style_6",
             "style": "drip/style/drip_style_6",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 6,
@@ -69,7 +75,8 @@
             "OrderInTab": 6,
             "icon": "drip/style/icon_drip_style_7",
             "style": "drip/style/drip_style_7",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 7,
@@ -79,7 +86,8 @@
             "OrderInTab": 7,
             "icon": "drip/style/icon_drip_style_8",
             "style": "drip/style/drip_style_8",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 8,
@@ -89,7 +97,8 @@
             "OrderInTab": 8,
             "icon": "drip/style/icon_drip_style_9",
             "style": "drip/style/drip_style_9",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 9,
@@ -99,7 +108,8 @@
             "OrderInTab": 9,
             "icon": "drip/style/icon_drip_style_10",
             "style": "drip/style/drip_style_10",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 10,
@@ -109,7 +119,8 @@
             "OrderInTab": 10,
             "icon": "drip/style/icon_drip_style_11",
             "style": "drip/style/drip_style_11",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 11,
@@ -119,7 +130,8 @@
             "OrderInTab": 11,
             "icon": "drip/style/icon_drip_style_12",
             "style": "drip/style/drip_style_12",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 12,
@@ -129,7 +141,8 @@
             "OrderInTab": 12,
             "icon": "drip/style/icon_drip_style_13",
             "style": "drip/style/drip_style_13",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 13,
@@ -139,7 +152,8 @@
             "OrderInTab": 13,
             "icon": "drip/style/icon_drip_style_14",
             "style": "drip/style/drip_style_14",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 14,
@@ -149,7 +163,8 @@
             "OrderInTab": 14,
             "icon": "drip/style/icon_drip_style_15",
             "style": "drip/style/drip_style_15",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 15,
@@ -159,7 +174,8 @@
             "OrderInTab": 15,
             "icon": "drip/style/icon_drip_style_16",
             "style": "drip/style/drip_style_16",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 16,
@@ -169,7 +185,8 @@
             "OrderInTab": 16,
             "icon": "drip/style/icon_drip_style_17",
             "style": "drip/style/drip_style_17",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 17,
@@ -179,7 +196,8 @@
             "OrderInTab": 17,
             "icon": "drip/style/icon_drip_style_18",
             "style": "drip/style/drip_style_18",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 18,
@@ -189,7 +207,8 @@
             "OrderInTab": 18,
             "icon": "drip/style/icon_drip_style_19",
             "style": "drip/style/drip_style_19",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 19,
@@ -199,7 +218,8 @@
             "OrderInTab": 19,
             "icon": "drip/style/icon_drip_style_20",
             "style": "drip/style/drip_style_20",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         }
     ]
 }

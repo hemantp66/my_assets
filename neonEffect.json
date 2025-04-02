@@ -17,7 +17,8 @@
             "overlay": "neonEffect/neon_spiral/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -35,7 +36,8 @@
             "overlay": "neonEffect/neon_love/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -53,7 +55,8 @@
             "overlay": "neonEffect/neon_funny/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -71,7 +74,8 @@
             "overlay": "neonEffect/neon_wing/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -89,7 +93,8 @@
             "overlay": "neonEffect/neon_line/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 6,
@@ -107,7 +112,8 @@
             "overlay": "neonEffect/neon_emoji1/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 7,
@@ -125,7 +131,8 @@
             "overlay": "neonEffect/neon_sign/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 8,
@@ -143,7 +150,8 @@
             "overlay": "neonEffect/neon_symbol/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 9,
@@ -161,7 +169,8 @@
             "overlay": "neonEffect/neon_celebration/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 10,
@@ -179,7 +188,8 @@
             "overlay": "neonEffect/neon_easter/",
             "positionMode": 0,
             "overlayMode": 0,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         }
     ]
 }

@@ -15,7 +15,8 @@
             "count": 4,
             "lookupTableName": "filters/filter_ActionEdge/filter_ActionEdge",
             "thumb": "filters/filter_ActionEdge/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -31,7 +32,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_AltVibes/filter_AltVibes",
             "thumb": "filters/filter_AltVibes/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -47,7 +49,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_AntiqueGlow/filter_AntiqueGlow",
             "thumb": "filters/filter_AntiqueGlow/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -63,7 +66,8 @@
             "count": 4,
             "lookupTableName": "filters/filter_Blooming/filter_Blooming",
             "thumb": "filters/filter_Blooming/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -79,7 +83,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_CinemaLook/filter_CinemaLook",
             "thumb": "filters/filter_CinemaLook/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 6,
@@ -95,7 +100,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_CityVibe/filter_CityVibe",
             "thumb": "filters/filter_CityVibe/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 7,
@@ -111,7 +117,8 @@
             "count": 4,
             "lookupTableName": "filters/filter_ClassicTone/filter_ClassicTone",
             "thumb": "filters/filter_ClassicTone/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 8,
@@ -127,7 +134,8 @@
             "count": 7,
             "lookupTableName": "filters/filter_ColorBoost/filter_ColorBoost",
             "thumb": "filters/filter_ColorBoost/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 9,
@@ -143,7 +151,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_CozyGlow/filter_CozyGlow",
             "thumb": "filters/filter_CozyGlow/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 10,
@@ -159,7 +168,8 @@
             "count": 6,
             "lookupTableName": "filters/filter_CrispTone/filter_CrispTone",
             "thumb": "filters/filter_CrispTone/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 11,
@@ -175,7 +185,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_DeepAura/filter_DeepAura",
             "thumb": "filters/filter_DeepAura/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 12,
@@ -191,7 +202,8 @@
             "count": 7,
             "lookupTableName": "filters/filter_DualShades/filter_DualShades",
             "thumb": "filters/filter_DualShades/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 13,
@@ -207,7 +219,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_GoldenFall/filter_GoldenFall",
             "thumb": "filters/filter_GoldenFall/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 14,
@@ -223,7 +236,8 @@
             "count": 7,
             "lookupTableName": "filters/filter_GourmetGlow/filter_GourmetGlow",
             "thumb": "filters/filter_GourmetGlow/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 15,
@@ -239,7 +253,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_LoveLush/filter_LoveLush",
             "thumb": "filters/filter_LoveLush/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 16,
@@ -255,7 +270,8 @@
             "count": 6,
             "lookupTableName": "filters/filter_LowkeyBeat/filter_LowkeyBeat",
             "thumb": "filters/filter_LowkeyBeat/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 17,
@@ -271,7 +287,8 @@
             "count": 4,
             "lookupTableName": "filters/filter_MonoMood/filter_MonoMood",
             "thumb": "filters/filter_MonoMood/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 18,
@@ -287,7 +304,8 @@
             "count": 9,
             "lookupTableName": "filters/filter_PastelSpring/filter_PastelSpring",
             "thumb": "filters/filter_PastelSpring/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 19,
@@ -303,7 +321,8 @@
             "count": 4,
             "lookupTableName": "filters/filter_PopFusion/filter_PopFusion",
             "thumb": "filters/filter_PopFusion/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 20,
@@ -319,7 +338,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_PureHue/filter_PureHue",
             "thumb": "filters/filter_PureHue/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 21,
@@ -335,7 +355,8 @@
             "count": 9,
             "lookupTableName": "filters/filter_QuirkyCine/filter_QuirkyCine",
             "thumb": "filters/filter_QuirkyCine/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 22,
@@ -351,7 +372,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_Radiant/filter_Radiant",
             "thumb": "filters/filter_Radiant/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 23,
@@ -367,7 +389,8 @@
             "count": 3,
             "lookupTableName": "filters/filter_Throwback/filter_Throwback",
             "thumb": "filters/filter_Throwback/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 24,
@@ -383,7 +406,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_TimeWarp/filter_TimeWarp",
             "thumb": "filters/filter_TimeWarp/thumb",
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 25,
@@ -399,7 +423,8 @@
             "count": 6,
             "lookupTableName": "filters/filter_Tranquil/filter_Tranquil",
             "thumb": "filters/filter_Tranquil/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 26,
@@ -415,7 +440,8 @@
             "count": 5,
             "lookupTableName": "filters/filter_TwoTone/filter_TwoTone",
             "thumb": "filters/filter_TwoTone/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 27,
@@ -431,7 +457,8 @@
             "count": 6,
             "lookupTableName": "filters/filter_VividChrome/filter_VividChrome",
             "thumb": "filters/filter_VividChrome/thumb",
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         }
     ]
 }

@@ -18,7 +18,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 2,
@@ -37,7 +38,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 3,
@@ -56,7 +58,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 4,
@@ -75,7 +78,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 5,
@@ -94,7 +98,8 @@
             "overlayMode": 5,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 6,
@@ -113,7 +118,8 @@
             "overlayMode": 4,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 7,
@@ -132,7 +138,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 8,
@@ -151,7 +158,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 9,
@@ -170,7 +178,8 @@
             "overlayMode": 1,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 10,
@@ -189,7 +198,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 11,
@@ -208,7 +218,8 @@
             "overlayMode": 4,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 12,
@@ -227,7 +238,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 13,
@@ -246,7 +258,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 14,
@@ -265,7 +278,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 15,
@@ -284,7 +298,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 16,
@@ -303,7 +318,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 17,
@@ -322,7 +338,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 18,
@@ -341,7 +358,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 19,
@@ -360,7 +378,8 @@
             "overlayMode": 1,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 20,
@@ -379,7 +398,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 21,
@@ -398,7 +418,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 22,
@@ -417,7 +438,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 23,
@@ -436,7 +458,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 24,
@@ -455,7 +478,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 25,
@@ -474,7 +498,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 26,
@@ -493,7 +518,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 27,
@@ -512,7 +538,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 28,
@@ -531,7 +558,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 29,
@@ -550,7 +578,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 30,
@@ -569,7 +598,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 31,
@@ -588,7 +618,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 32,
@@ -607,7 +638,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 33,
@@ -626,7 +658,8 @@
             "overlayMode": 5,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 34,
@@ -645,7 +678,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 35,
@@ -664,7 +698,8 @@
             "overlayMode": 2,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 36,
@@ -683,7 +718,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": false
         },
         {
             "id": 37,
@@ -702,7 +738,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 38,
@@ -721,7 +758,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 39,
@@ -740,7 +778,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 40,
@@ -759,7 +798,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": true
         },
         {
             "id": 41,
@@ -778,7 +818,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 42,
@@ -797,7 +838,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 43,
@@ -816,7 +858,8 @@
             "overlayMode": 0,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 44,
@@ -835,7 +878,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 45,
@@ -854,7 +898,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 46,
@@ -873,7 +918,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         },
         {
             "id": 47,
@@ -892,7 +938,8 @@
             "overlayMode": 3,
             "opacity": 100,
             "isOpacityEnabled": true,
-            "isPro": true
+            "isPro": false,
+            "showAds": true
         }
     ]
 }
