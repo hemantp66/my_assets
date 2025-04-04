@@ -56,7 +56,7 @@
             "positionMode": 0,
             "overlayMode": 2,
             "isPro": false,
-            "showAds": false
+            "showAds": true
         }
     ]
 }
