@@ -19,7 +19,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -44,7 +44,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -69,7 +69,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -94,7 +94,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -119,7 +119,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": ["0xFF062D7D"],
       "shadowDx": [
         -2
@@ -148,7 +148,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF062D7D"
       ],
@@ -175,7 +175,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF000000"
       ],
@@ -209,7 +209,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF13FBFE"
       ],
@@ -240,7 +240,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFAEAEAE",
         "0xFFFFBCD9"
@@ -268,7 +268,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF515151"
       ],
@@ -299,7 +299,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFF23480"
       ],
@@ -330,7 +330,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFC4003B",
         "0xFF3C017D"
@@ -358,7 +358,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFFFFF"
       ],
@@ -389,7 +389,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFA7A5F5"
       ],
@@ -420,7 +420,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -445,7 +445,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFD545"
       ],
@@ -472,7 +472,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFF64F2",
         "0xFFFF64F2"
@@ -500,7 +500,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF000000",
         "0xFFF03635"
@@ -528,7 +528,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF22FF00"
       ],
@@ -558,7 +558,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFA7CD"
       ],
@@ -585,7 +585,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -610,7 +610,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -635,7 +635,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF534DC4"
       ],
@@ -670,7 +670,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFF9EC0"
       ],
@@ -701,7 +701,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
@@ -726,7 +726,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFF9FB"
       ],
@@ -753,7 +753,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFFFFF"
       ],
@@ -784,7 +784,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF5E5CBA"
       ],
@@ -811,7 +811,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFF000000"
       ],
@@ -842,7 +842,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFFFFF"
       ],
@@ -879,7 +879,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFD0C3FF"
       ],
@@ -910,7 +910,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [
         "0xFFFFF2F2"
       ],
@@ -941,7 +941,7 @@
       "labelTexture": "",
       "labelGradient": [],
       "labelGradientAngle": 0,
-      "labelColor": "",
+      "labelColor": "0x00FFFFFF",
       "shadowColors": [],
       "shadowDx": [],
       "shadowDy": [],
