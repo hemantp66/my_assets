@@ -127,7 +127,7 @@
       "shadowDy": [
         -1
       ],
-      "shadowRad": [],
+      "shadowRad": [4],
       "isPro": false
     },
     {
