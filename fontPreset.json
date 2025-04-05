@@ -3,7 +3,7 @@
   "items": [
     {
       "id": 0,
-      "icon": "",
+      "icon": "fontPreset/icons/0.png",
       "font": "fontPreset/fonts/TOONISH.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_1_texture.jpg",
@@ -28,7 +28,7 @@
     },
     {
       "id": 1,
-      "icon": "",
+      "icon": "fontPreset/icons/1.png",
       "font": "fontPreset/fonts/PUSAB.otf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_2_texture.jpg",
@@ -53,7 +53,7 @@
     },
     {
       "id": 2,
-      "icon": "",
+      "icon": "fontPreset/icons/2.png",
       "font": "fontPreset/fonts/Molle.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_3_texture.jpg",
@@ -78,7 +78,7 @@
     },
     {
       "id": 3,
-      "icon": "",
+      "icon": "fontPreset/icons/3.png",
       "font": "fontPreset/fonts/Messapia.otf",
       "textSize": 35,
       "textTexture": "",
@@ -103,7 +103,7 @@
     },
     {
       "id": 4,
-      "icon": "",
+      "icon": "fontPreset/icons/4.png",
       "font": "fontPreset/fonts/watermelon_0.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -120,19 +120,23 @@
       "labelGradient": [],
       "labelGradientAngle": 0,
       "labelColor": "",
-      "shadowColors": ["0xFF062D7D"],
+      "shadowColors": [
+        "0xFF062D7D"
+      ],
       "shadowDx": [
         -2
       ],
       "shadowDy": [
         -1
       ],
-      "shadowRad": [5],
+      "shadowRad": [
+        5
+      ],
       "isPro": false
     },
     {
       "id": 5,
-      "icon": "",
+      "icon": "fontPreset/icons/5.png",
       "font": "fontPreset/fonts/Molle.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_8_texture.jpg",
@@ -152,14 +156,20 @@
       "shadowColors": [
         "0xFF062D7D"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 6,
-      "icon": "",
+      "icon": "fontPreset/icons/6.png",
       "font": "fontPreset/fonts/Lobster_1.3.otf",
       "textSize": 35,
       "textTexture": "",
@@ -185,12 +195,14 @@
       "shadowDy": [
         2
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 7,
-      "icon": "",
+      "icon": "fontPreset/icons/7.png",
       "font": "fontPreset/fonts/PUSAB.otf",
       "textSize": 35,
       "textTexture": "",
@@ -219,12 +231,14 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 8,
-      "icon": "",
+      "icon": "fontPreset/icons/8.png",
       "font": "fontPreset/fonts/TOONISH.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_11_texture.jpg",
@@ -245,14 +259,23 @@
         "0xFFAEAEAE",
         "0xFFFFBCD9"
       ],
-      "shadowDx": [2,2],
-      "shadowDy": [2,2],
-      "shadowRad": [2,2],
+      "shadowDx": [
+        2,
+        2
+      ],
+      "shadowDy": [
+        2,
+        2
+      ],
+      "shadowRad": [
+        2,
+        2
+      ],
       "isPro": false
     },
     {
       "id": 9,
-      "icon": "",
+      "icon": "fontPreset/icons/9.png",
       "font": "fontPreset/fonts/AbrilFatface-Regular.otf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_12_texture.jpg",
@@ -278,12 +301,14 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [3],
+      "shadowRad": [
+        3
+      ],
       "isPro": false
     },
     {
       "id": 10,
-      "icon": "",
+      "icon": "fontPreset/icons/10.png",
       "font": "fontPreset/fonts/NotoSerif-BoldItalic.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_13_texture.jpg",
@@ -309,12 +334,14 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [3],
+      "shadowRad": [
+        3
+      ],
       "isPro": false
     },
     {
       "id": 11,
-      "icon": "",
+      "icon": "fontPreset/icons/11.png",
       "font": "fontPreset/fonts/TOONISH.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_14_texture.png",
@@ -335,14 +362,23 @@
         "0xFFC4003B",
         "0xFF3C017D"
       ],
-      "shadowDx": [1,2],
-      "shadowDy": [1,2],
-      "shadowRad": [1,2],
+      "shadowDx": [
+        1,
+        2
+      ],
+      "shadowDy": [
+        1,
+        2
+      ],
+      "shadowRad": [
+        1,
+        2
+      ],
       "isPro": false
     },
     {
       "id": 12,
-      "icon": "",
+      "icon": "fontPreset/icons/12.png",
       "font": "fontPreset/fonts/PUSAB.otf",
       "textSize": 45,
       "textTexture": "fontPreset/textures/font_15_texture.jpg",
@@ -368,12 +404,14 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [3],
+      "shadowRad": [
+        3
+      ],
       "isPro": false
     },
     {
       "id": 13,
-      "icon": "",
+      "icon": "fontPreset/icons/13.png",
       "font": "fontPreset/fonts/Messapia.otf",
       "textSize": 35,
       "textTexture": "",
@@ -393,14 +431,20 @@
       "shadowColors": [
         "0xFFA7A5F5"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 14,
-      "icon": "",
+      "icon": "fontPreset/icons/14.png",
       "font": "fontPreset/fonts/AntnraDistance.otf",
       "textSize": 50,
       "textTexture": "",
@@ -429,7 +473,7 @@
     },
     {
       "id": 15,
-      "icon": "",
+      "icon": "fontPreset/icons/15.png",
       "font": "fontPreset/fonts/NotoSerif-BoldItalic.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -449,14 +493,20 @@
       "shadowColors": [
         "0xFFFFD545"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 16,
-      "icon": "",
+      "icon": "fontPreset/icons/16.png",
       "font": "fontPreset/fonts/Molle.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -477,14 +527,23 @@
         "0xFFFF64F2",
         "0xFFFF64F2"
       ],
-      "shadowDx": [2,2],
-      "shadowDy": [2,2],
-      "shadowRad": [2,2],
+      "shadowDx": [
+        2,
+        2
+      ],
+      "shadowDy": [
+        2,
+        2
+      ],
+      "shadowRad": [
+        2,
+        2
+      ],
       "isPro": false
     },
     {
       "id": 17,
-      "icon": "",
+      "icon": "fontPreset/icons/17.png",
       "font": "fontPreset/fonts/NotoSerif-BoldItalic.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_20_texture.jpg",
@@ -505,14 +564,23 @@
         "0xFF000000",
         "0xFFF03635"
       ],
-      "shadowDx": [2,2],
-      "shadowDy": [2,2],
-      "shadowRad": [2,2],
+      "shadowDx": [
+        2,
+        2
+      ],
+      "shadowDy": [
+        2,
+        2
+      ],
+      "shadowRad": [
+        2,
+        2
+      ],
       "isPro": false
     },
     {
       "id": 18,
-      "icon": "",
+      "icon": "fontPreset/icons/18.png",
       "font": "fontPreset/fonts/homework_normal.ttf",
       "textSize": 50,
       "textTexture": "",
@@ -532,14 +600,23 @@
       "shadowColors": [
         "0xFF22FF00"
       ],
-      "shadowDx": [2,2],
-      "shadowDy": [2,2],
-      "shadowRad": [2,2],
+      "shadowDx": [
+        2,
+        2
+      ],
+      "shadowDy": [
+        2,
+        2
+      ],
+      "shadowRad": [
+        2,
+        2
+      ],
       "isPro": false
     },
     {
       "id": 19,
-      "icon": "",
+      "icon": "fontPreset/icons/19.png",
       "font": "fontPreset/fonts/bubblegum.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -562,14 +639,20 @@
       "shadowColors": [
         "0xFFFFA7CD"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 22,
-      "icon": "",
+      "icon": "fontPreset/icons/22.png",
       "font": "fontPreset/fonts/VT123-Regular.ttf",
       "textSize": 50,
       "textTexture": "fontPreset/textures/font_26_texture.png",
@@ -595,12 +678,14 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 23,
-      "icon": "",
+      "icon": "fontPreset/icons/23.png",
       "font": "fontPreset/fonts/Matemasie.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -630,12 +715,14 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 24,
-      "icon": "",
+      "icon": "fontPreset/icons/24.png",
       "font": "fontPreset/fonts/homework_normal.ttf",
       "textSize": 50,
       "textTexture": "",
@@ -660,7 +747,7 @@
     },
     {
       "id": 25,
-      "icon": "",
+      "icon": "fontPreset/icons/25.png",
       "font": "fontPreset/fonts/bubblegum.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_29_texture.png",
@@ -680,14 +767,20 @@
       "shadowColors": [
         "0xFFFFF9FB"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 26,
-      "icon": "",
+      "icon": "fontPreset/icons/26.png",
       "font": "fontPreset/fonts/Ranchers.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -713,12 +806,14 @@
       "shadowDy": [
         -1
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 27,
-      "icon": "",
+      "icon": "fontPreset/icons/27.png",
       "font": "fontPreset/fonts/Molle.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_31_texture.png",
@@ -738,14 +833,20 @@
       "shadowColors": [
         "0xFF5E5CBA"
       ],
-      "shadowDx": [2],
-      "shadowDy": [2],
-      "shadowRad": [2],
+      "shadowDx": [
+        2
+      ],
+      "shadowDy": [
+        2
+      ],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 28,
-      "icon": "",
+      "icon": "fontPreset/icons/28.png",
       "font": "fontPreset/fonts/GravitasOne.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -771,12 +872,14 @@
       "shadowDy": [
         7
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 29,
-      "icon": "",
+      "icon": "fontPreset/icons/29.png",
       "font": "fontPreset/fonts/NotoSerif-BoldItalic.ttf",
       "textSize": 35,
       "textTexture": "",
@@ -802,12 +905,14 @@
       "shadowDy": [
         5
       ],
-      "shadowRad": [4],
+      "shadowRad": [
+        4
+      ],
       "isPro": false
     },
     {
       "id": 30,
-      "icon": "",
+      "icon": "fontPreset/icons/30.png",
       "font": "fontPreset/fonts/GetShow.ttf",
       "textSize": 55,
       "textTexture": "",
@@ -839,12 +944,14 @@
       "shadowDy": [
         2
       ],
-      "shadowRad": [2],
+      "shadowRad": [
+        2
+      ],
       "isPro": false
     },
     {
       "id": 31,
-      "icon": "",
+      "icon": "fontPreset/icons/31.png",
       "font": "fontPreset/fonts/GravitasOne.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_35_texture.png",
@@ -870,12 +977,14 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [1],
+      "shadowRad": [
+        1
+      ],
       "isPro": false
     },
     {
       "id": 32,
-      "icon": "",
+      "icon": "fontPreset/icons/32.png",
       "font": "fontPreset/fonts/TOONISH.ttf",
       "textSize": 35,
       "textTexture": "fontPreset/textures/font_36_texture.png",
