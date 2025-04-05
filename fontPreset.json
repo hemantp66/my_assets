@@ -120,7 +120,7 @@
       "labelGradient": [],
       "labelGradientAngle": 0,
       "labelColor": "0xFF827780",
-      "shadowColors": [],
+      "shadowColors": ["0xFF062D7D"],
       "shadowDx": [
         -2
       ],
@@ -152,9 +152,9 @@
       "shadowColors": [
         "0xFF062D7D"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2],
+      "shadowDy": [2],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -183,9 +183,9 @@
         2
       ],
       "shadowDy": [
-        4
+        2
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -219,7 +219,7 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -245,9 +245,9 @@
         "0xFFAEAEAE",
         "0xFFFFBCD9"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2,2],
+      "shadowDy": [2,2],
+      "shadowRad": [2,2],
       "isPro": false
     },
     {
@@ -278,7 +278,7 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [],
+      "shadowRad": [3],
       "isPro": false
     },
     {
@@ -309,7 +309,7 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [],
+      "shadowRad": [3],
       "isPro": false
     },
     {
@@ -335,9 +335,9 @@
         "0xFFC4003B",
         "0xFF3C017D"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2,2],
+      "shadowDy": [2,2],
+      "shadowRad": [2,2],
       "isPro": false
     },
     {
@@ -368,7 +368,7 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [],
+      "shadowRad": [3],
       "isPro": false
     },
     {
@@ -393,9 +393,9 @@
       "shadowColors": [
         "0xFFA7A5F5"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2],
+      "shadowDy": [2],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -449,9 +449,9 @@
       "shadowColors": [
         "0xFFFFD545"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2],
+      "shadowDy": [2],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -477,9 +477,9 @@
         "0xFFFF64F2",
         "0xFFFF64F2"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2,2],
+      "shadowDy": [2,2],
+      "shadowRad": [2,2],
       "isPro": false
     },
     {
@@ -505,9 +505,9 @@
         "0xFF000000",
         "0xFFF03635"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2,2],
+      "shadowDy": [2,2],
+      "shadowRad": [2,2],
       "isPro": false
     },
     {
@@ -532,9 +532,9 @@
       "shadowColors": [
         "0xFF22FF00"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2,2],
+      "shadowDy": [2,2],
+      "shadowRad": [2,2],
       "isPro": false
     },
     {
@@ -562,9 +562,9 @@
       "shadowColors": [
         "0xFFFFA7CD"
       ],
-      "shadowDx": [],
-      "shadowDy": [],
-      "shadowRad": [],
+      "shadowDx": [2],
+      "shadowDy": [2],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -645,7 +645,7 @@
       "shadowDy": [
         3
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -680,7 +680,7 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -763,7 +763,7 @@
       "shadowDy": [
         -1
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -821,7 +821,7 @@
       "shadowDy": [
         7
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -852,7 +852,7 @@
       "shadowDy": [
         5
       ],
-      "shadowRad": [],
+      "shadowRad": [4],
       "isPro": false
     },
     {
@@ -889,7 +889,7 @@
       "shadowDy": [
         2
       ],
-      "shadowRad": [],
+      "shadowRad": [2],
       "isPro": false
     },
     {
@@ -920,7 +920,7 @@
       "shadowDy": [
         1
       ],
-      "shadowRad": [],
+      "shadowRad": [1],
       "isPro": false
     },
     {
