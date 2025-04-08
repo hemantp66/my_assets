@@ -14,7 +14,7 @@
             "count": 135,
             "background": "backgrounds/Studio/",
             "icon": "backgrounds/Studio/icon_",
-            "isPro": true,
+            "isPro": false,
             "showAds": true
         },
         {
@@ -46,7 +46,7 @@
             "count": 20,
             "background": "backgrounds/Blurred/",
             "icon": "backgrounds/Blurred/icon_",
-            "isPro": true,
+            "isPro": false,
             "showAds": true
         },
         {
@@ -94,7 +94,7 @@
             "count": 14,
             "background": "backgrounds/Diwali/",
             "icon": "backgrounds/Diwali/icon_",
-            "isPro": true,
+            "isPro": false,
             "showAds": true
         },
         {
@@ -126,8 +126,8 @@
             "count": 21,
             "background": "backgrounds/Fireworks/",
             "icon": "backgrounds/Fireworks/icon_",
-            "isPro": false,
-            "showAds": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 8,
@@ -142,8 +142,8 @@
             "count": 63,
             "background": "backgrounds/Floral/",
             "icon": "backgrounds/Floral/icon_",
-            "isPro": false,
-            "showAds": true
+            "isPro": true,
+            "showAds": false
         },
         {
             "id": 9,
@@ -159,7 +159,7 @@
             "background": "backgrounds/Glitch/",
             "icon": "backgrounds/Glitch/icon_",
             "isPro": false,
-            "showAds": false
+            "showAds": true
         },
         {
             "id": 10,
@@ -190,7 +190,7 @@
             "count": 25,
             "background": "backgrounds/Golden/",
             "icon": "backgrounds/Golden/icon_",
-            "isPro": false,
+            "isPro": true,
             "showAds": false
         },
         {
